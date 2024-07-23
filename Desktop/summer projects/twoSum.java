@@ -11,3 +11,7 @@ class Solution {
         return new int[0];
     }
 }
+/*make a hashmap to store the nums and then search through the first array to find if there is a number that is that
+ * spot in the index minus the target which would mean that those two indexes is what we are looking for. If the case is met
+ * add those indecies into a new int array otherwise print empty array
+ */
