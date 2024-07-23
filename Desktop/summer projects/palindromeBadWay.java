@@ -13,3 +13,10 @@ public class palindromeBadWay {
         }
     }
 }
+/*
+ * im lowkey stupid with this one will redo using a stack next time.
+ * but i took the integer and made it into a string 
+ * then i created an empty string that would hold the reverse of the orignial string
+ * then loop through the  string backwords and add it to the empty string
+ * finally check if both string equal each other if true they are palindromes otherwise false
+ */
